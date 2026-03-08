@@ -31,3 +31,5 @@
     * POD DNS : my-pod.default.pod.cluster.local
 * CoreDNS in Kubernetes
 * Ingress
+
+* 
