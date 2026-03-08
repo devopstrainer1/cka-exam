@@ -3,6 +3,7 @@ git clone https://github.com/nginxinc/kubernetes-ingress/
 cd kubernetes-ingress/deployments/
 git checkout v1.11.3
 ```
+
 ```
 kubectl apply -f common/ns-and-sa.yaml
 kubectl apply -f rbac/rbac.yaml
