@@ -15,7 +15,7 @@ spec:
     app: abc
   spec:
    containers:
-   - name: ajay
+   - name: amit
      image: nginx
      ports:
      - containerPort: 80
