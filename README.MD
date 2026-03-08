@@ -9,7 +9,7 @@
 * Kubects Commands
 * Imperative vs Declarative
 
-## Session 2: Services and Scheduling
+## Session 2: Service and Scheduling
 
 * Kubectl commands
   * exec
