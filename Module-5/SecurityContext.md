@@ -1,5 +1,6 @@
 # Understanding Kubernetes security contexts
 
+
 > kubernetes security contexts allows the kubernetes admin to add the layer of security, authentication and authorization to Kubernetes. We have already seen one way of securing kubernetes when we generated the self signed certificates for different kubernetes components to enable SSL connectivity. There are multiple other ways of securing your cluster. Lets understand some ways to secure our cluster 
 
 
